@@ -2,9 +2,9 @@
 
 Public bug reports and feature requests for Vibideo.
 
-- [Search existing reports and requests](https://github.com/EthanSK/vibideo-public/issues)
-- [Report a bug](https://github.com/EthanSK/vibideo-public/issues/new?template=bug_report.md)
-- [Request a feature](https://github.com/EthanSK/vibideo-public/issues/new?template=feature_request.md)
+- [Search existing reports and requests](https://github.com/ETGgames/vibideo-public/issues)
+- [Report a bug](https://github.com/ETGgames/vibideo-public/issues/new?template=bug_report.md)
+- [Request a feature](https://github.com/ETGgames/vibideo-public/issues/new?template=feature_request.md)
 
 Search existing issues before opening a new one. If someone has already reported the same problem or idea, add a reaction or useful details there.
 
